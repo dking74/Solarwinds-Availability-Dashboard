@@ -1,0 +1,5 @@
+configuration.py
+**/logs
+**/assets
+**/__pycache__
+**/.vscode
